@@ -27,7 +27,7 @@ This repository contains a react app which has the following features:
 ## Install and run
 To test it out for yourself clone the repository with:
 
-`git clone https://github.com/rinor123-navi/ecommerce-app.git`
+`git clone https://github.com/rinorbardiqi/ecommerce-app.git`
 
 Run `npm install`
 
