@@ -26,7 +26,7 @@ const DashboardLayout = (props) => {
               </li>
               <li>
                 <span className="signOut" onClick={signOut}>
-                  Sign Out
+                  Sign out
                 </span>
               </li>
             </ul>

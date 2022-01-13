@@ -37,6 +37,7 @@ export default function App({ onCreditCardData }) {
             placeholder="Card Number"
             value={number}
             onChange={(e) => {
+              // change this to support all cards properly, since American Express cards only uses 15 numbers
               if (e.target.value.length > 16) return;
               setNumber(e.target.value);
             }}
