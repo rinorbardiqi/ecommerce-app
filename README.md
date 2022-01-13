@@ -2,7 +2,7 @@
 
 ## Pictures
 
-*Thw Welcome Page*
+*The Welcome Page*
 
 ![HomePage](HomePageSc.png)
 
@@ -16,12 +16,12 @@
 
 ## Features
 This repository contains a react app which has the following features:
-* User SignUp and Login
+* User Sign up and Login
 * Email recovery
 * Browse the shop
-* Add Items to the cart
+* Add items to cart
 * Order items
-* Login As admin and manage the shop
+* Login as admin and manage the shop
 * Responsive Website
 
 ## Install and run
